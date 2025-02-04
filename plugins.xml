@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <plugin name="nd.keymap" id="nd.keymap" version="17" description="Nd Keymap" url="https://github.com/nd/nd-keymap/releases/download/v17/nd-keymap.zip">
+  <plugin name="nd.keymap" id="nd.keymap" version="18" description="Nd Keymap" url="https://github.com/nd/nd-keymap/releases/download/v18/nd-keymap.zip">
     <idea-version since-build="231"/>
   </plugin>
 </plugins>
