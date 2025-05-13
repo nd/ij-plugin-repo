@@ -3,7 +3,7 @@
   <plugin name="nd.keymap" id="nd.keymap" version="18" description="Nd Keymap" url="https://github.com/nd/nd-keymap/releases/download/v18/nd-keymap.zip">
     <idea-version since-build="231"/>
   </plugin>
-  <plugin name="XFillParagraph" id="XFillParagraph" version="5" description="XFillParagraph" url="https://github.com/nd/fillParagraph/releases/download/v5/fillParagraph.zip">
+  <plugin name="XFillParagraph" id="XFillParagraph" version="6" description="XFillParagraph" url="https://github.com/nd/fillParagraph/releases/download/v6/fillParagraph.zip">
     <idea-version since-build="243"/>
   </plugin>
 </plugins>
